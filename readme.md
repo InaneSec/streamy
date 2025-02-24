@@ -1,8 +1,10 @@
 # Streamy v1.0
 
-A standalone desktop application for streaming and capturing RTSP video from your 3D printer camera.
+# Streamy v1.0
+# A desktop application to stream RTSP video from your 3D printer camera.
+# Created and maintained by data_heavy@proton.me
+# Repo: https://github.com/InaneSec/streamy/
 
-![Streamy Application](https://placeholder-image.com/streamy-screenshot.png)
 
 ## Features
 
